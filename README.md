@@ -24,5 +24,7 @@
 
 ---
 ## 📫 Conheça mais sobre mim:
-- 💼 [LinkedIn]([www.linkedin.com/in/joão-gabriel-menezes-marra-45b1381a9](https://www.linkedin.com/in/jo%C3%A3o-gabriel-menezes-marra-45b1381a9/))
-- 📧 **joaommenezes100@gmail.com**
+[![Ver meu LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/jo%C3%A3o-gabriel-menezes-marra-45b1381a9/))
+
+[![Me mande um e-mail](https://img.shields.io/badge/📧%20Email-red?style=for-the-badge)](joaommenezes100@gmail.com)
+
