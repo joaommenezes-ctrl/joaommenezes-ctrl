@@ -36,3 +36,5 @@
 
 ---
 
+
+![Snake animation](https://raw.githubusercontent.com/joaommenezes-ctrl/joaommenezes-ctrl/output/github-contribution-grid-snake.svg)
