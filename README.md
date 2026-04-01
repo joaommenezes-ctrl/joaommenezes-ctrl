@@ -36,5 +36,9 @@
 
 ---
 
+![Metrics](https://github.com/joaommenezes-ctrl/joaommenezes-ctrl/blob/main/github-metrics.svg)
+
+---
+
 
 ![Snake animation](https://raw.githubusercontent.com/joaommenezes-ctrl/joaommenezes-ctrl/output/github-contribution-grid-snake.svg)
